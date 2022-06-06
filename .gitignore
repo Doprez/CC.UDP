@@ -1,0 +1,9 @@
+CC.UDP/CC.UDP.Client/obj/
+CC.UDP/CC.UDP.Client/bin/
+CC.UDP/CC.UDP.Core/bin/
+CC.UDP/CC.UDP.Core/obj/
+CC.UDP/CC.UDP.Models/obj/
+CC.UDP/CC.UDP.Server/.vs/
+CC.UDP/CC.UDP.Server/bin/
+CC.UDP/CC.UDP.Server/obj/
+CC.UDP/CC.UDP.Client/.vs/
